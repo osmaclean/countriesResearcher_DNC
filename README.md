@@ -45,7 +45,6 @@ Modo Mobile 📲
 <hr>
 
 ## Parte 2 - Funcionalidade ⚙
-
 Funcionalidade via JavaScript. Utilizando conceitos como IIFE, Use Strict, DOM, Eventos, Promises e Arrow Function.
 
 ![country](https://user-images.githubusercontent.com/115199808/234404241-1d1db3f7-12f6-46d6-b71e-18a596c81526.gif)
